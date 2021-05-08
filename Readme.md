@@ -1,1 +1,1 @@
-![alt text](./preview.png "Logo Title Text 1")
+![alt text](./preview.PNG "Logo Title Text 1")
