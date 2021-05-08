@@ -1,1 +1,1 @@
-![](C:\Users\redxp\projects\auto-vj\preview.PNG)
+![](\preview.PNG)
